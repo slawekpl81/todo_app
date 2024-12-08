@@ -1,0 +1,4 @@
+case,wash car, active,true,done,false,periodically,false
+case,read the book,active,true,done,false,periodically,true,frequency,31
+case,go to work,active,true,done,false,periodically,true,frequency,5
+case,wash the turtle,active,true,done,false,periodically,true,frequency,7
